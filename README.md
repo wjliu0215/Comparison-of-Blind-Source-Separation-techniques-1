@@ -8,7 +8,7 @@ This sample software applies Blind Source Separation (BSS) algorithms to simulat
 
 main_bss_separation.m
 
-The main executable file separates convolutive mixture using our proposed Time Domain Stereo Audio Source Separation technique (AIRES), frequency domain BSS ILRMA[1,2] and AuxIVA[2]. Ater separation main_bss_separation.m prints out Signal-to-Distortion Ratio and computation time for all 3 BSS (SIR and SAR also can be printed, since whey are calculated as well).
+The main executable file separates convolutive mixture using our proposed Time Domain Stereo Audio Source Separation technique (AIRES), frequency domain BSS ILRMA[1,2] and AuxIVA[3]. Ater separation main_bss_separation.m prints out Signal-to-Distortion Ratio and computation time for all 3 BSS (SIR and SAR also can be printed, since whey are calculated as well).
 
 * How to change convolutive mixtures:
 
