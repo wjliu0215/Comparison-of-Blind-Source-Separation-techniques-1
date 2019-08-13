@@ -21,5 +21,4 @@ Pay attention - all BSS work only with audio signals of 16kHz sampling rate.
 [3] - Ono, Nobutaka. "Stable and fast update rules for independent vector analysis based on auxiliary function technique." WASPAA 2011
 
 
-Oleg Golokolenko, oleg.golokolenko@tu-ilmenau.de, August 2019
-Gerald Schuller, gerald.schuller@tu-ilmenau.de, March 2019.
+Oleg Golokolenko, oleg.golokolenko@tu-ilmenau.de, August 2019.
